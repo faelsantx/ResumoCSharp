@@ -1,0 +1,15 @@
+C:\Users\rafael.sabreu4\ResumoCSharp\C# Home\bin\Debug\net6.0\C# Home.exe
+C:\Users\rafael.sabreu4\ResumoCSharp\C# Home\bin\Debug\net6.0\C# Home.deps.json
+C:\Users\rafael.sabreu4\ResumoCSharp\C# Home\bin\Debug\net6.0\C# Home.runtimeconfig.json
+C:\Users\rafael.sabreu4\ResumoCSharp\C# Home\bin\Debug\net6.0\C# Home.dll
+C:\Users\rafael.sabreu4\ResumoCSharp\C# Home\bin\Debug\net6.0\ref\C# Home.dll
+C:\Users\rafael.sabreu4\ResumoCSharp\C# Home\bin\Debug\net6.0\C# Home.pdb
+C:\Users\rafael.sabreu4\ResumoCSharp\C# Home\obj\Debug\net6.0\C# Home.csproj.AssemblyReference.cache
+C:\Users\rafael.sabreu4\ResumoCSharp\C# Home\obj\Debug\net6.0\C# Home.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.sabreu4\ResumoCSharp\C# Home\obj\Debug\net6.0\C# Home.AssemblyInfoInputs.cache
+C:\Users\rafael.sabreu4\ResumoCSharp\C# Home\obj\Debug\net6.0\C# Home.AssemblyInfo.cs
+C:\Users\rafael.sabreu4\ResumoCSharp\C# Home\obj\Debug\net6.0\C# Home.csproj.CoreCompileInputs.cache
+C:\Users\rafael.sabreu4\ResumoCSharp\C# Home\obj\Debug\net6.0\C# Home.dll
+C:\Users\rafael.sabreu4\ResumoCSharp\C# Home\obj\Debug\net6.0\ref\C# Home.dll
+C:\Users\rafael.sabreu4\ResumoCSharp\C# Home\obj\Debug\net6.0\C# Home.pdb
+C:\Users\rafael.sabreu4\ResumoCSharp\C# Home\obj\Debug\net6.0\C# Home.genruntimeconfig.cache
