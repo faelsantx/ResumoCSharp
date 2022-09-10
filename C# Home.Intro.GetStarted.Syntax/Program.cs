@@ -1,13 +1,13 @@
 ﻿
-using System; //
+using System; 
 
-namespace HelloWorld //
+namespace Moises 
 {
-  class Program //
+  class Teste 
   {
-    static void Main(string[] args) //
+    static void Main(string[] args) 
     {
-      Console.WriteLine("Hello World!");  //  
+      Console.WriteLine("Bora bill");  
     }
   }
 }
