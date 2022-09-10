@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rafael.sabreu4\\ResumoCSharp\\C# Strings\\C# Strings.csproj": {}
+    "C:\\Users\\Kennedy alan\\Documents\\GitHub\\ResumoCSharp\\C# Strings\\C# Strings.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rafael.sabreu4\\ResumoCSharp\\C# Strings\\C# Strings.csproj": {
+    "C:\\Users\\Kennedy alan\\Documents\\GitHub\\ResumoCSharp\\C# Strings\\C# Strings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafael.sabreu4\\ResumoCSharp\\C# Strings\\C# Strings.csproj",
+        "projectUniqueName": "C:\\Users\\Kennedy alan\\Documents\\GitHub\\ResumoCSharp\\C# Strings\\C# Strings.csproj",
         "projectName": "C# Strings",
-        "projectPath": "C:\\Users\\rafael.sabreu4\\ResumoCSharp\\C# Strings\\C# Strings.csproj",
-        "packagesPath": "C:\\Users\\rafael.sabreu4\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafael.sabreu4\\ResumoCSharp\\C# Strings\\obj\\",
+        "projectPath": "C:\\Users\\Kennedy alan\\Documents\\GitHub\\ResumoCSharp\\C# Strings\\C# Strings.csproj",
+        "packagesPath": "C:\\Users\\Kennedy alan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kennedy alan\\Documents\\GitHub\\ResumoCSharp\\C# Strings\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\rafael.sabreu4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kennedy alan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -49,7 +49,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -58,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,15 @@
+C:\Users\Kennedy alan\Documents\GitHub\ResumoCSharp\C# User Input\bin\Debug\net6.0\C# User Input.exe
+C:\Users\Kennedy alan\Documents\GitHub\ResumoCSharp\C# User Input\bin\Debug\net6.0\C# User Input.deps.json
+C:\Users\Kennedy alan\Documents\GitHub\ResumoCSharp\C# User Input\bin\Debug\net6.0\C# User Input.runtimeconfig.json
+C:\Users\Kennedy alan\Documents\GitHub\ResumoCSharp\C# User Input\bin\Debug\net6.0\C# User Input.dll
+C:\Users\Kennedy alan\Documents\GitHub\ResumoCSharp\C# User Input\bin\Debug\net6.0\C# User Input.pdb
+C:\Users\Kennedy alan\Documents\GitHub\ResumoCSharp\C# User Input\obj\Debug\net6.0\C# User Input.csproj.AssemblyReference.cache
+C:\Users\Kennedy alan\Documents\GitHub\ResumoCSharp\C# User Input\obj\Debug\net6.0\C# User Input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kennedy alan\Documents\GitHub\ResumoCSharp\C# User Input\obj\Debug\net6.0\C# User Input.AssemblyInfoInputs.cache
+C:\Users\Kennedy alan\Documents\GitHub\ResumoCSharp\C# User Input\obj\Debug\net6.0\C# User Input.AssemblyInfo.cs
+C:\Users\Kennedy alan\Documents\GitHub\ResumoCSharp\C# User Input\obj\Debug\net6.0\C# User Input.csproj.CoreCompileInputs.cache
+C:\Users\Kennedy alan\Documents\GitHub\ResumoCSharp\C# User Input\obj\Debug\net6.0\C# User Input.dll
+C:\Users\Kennedy alan\Documents\GitHub\ResumoCSharp\C# User Input\obj\Debug\net6.0\refint\C# User Input.dll
+C:\Users\Kennedy alan\Documents\GitHub\ResumoCSharp\C# User Input\obj\Debug\net6.0\C# User Input.pdb
+C:\Users\Kennedy alan\Documents\GitHub\ResumoCSharp\C# User Input\obj\Debug\net6.0\C# User Input.genruntimeconfig.cache
+C:\Users\Kennedy alan\Documents\GitHub\ResumoCSharp\C# User Input\obj\Debug\net6.0\ref\C# User Input.dll

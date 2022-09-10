@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "C# While Loop/1.0.0": {
+        "runtime": {
+          "C# While Loop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C# While Loop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
